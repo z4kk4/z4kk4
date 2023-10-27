@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile
 
 ## About me
-I'm Zakaria, an IT student at htw Berlin, and a workigns student at Kyto GMBH ! 
+I'm Zakaria, an IT student at htw Berlin, and a working as student at Kyto gmbh ! 
 
 ### Likes
 * Beautiful code
