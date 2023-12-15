@@ -5,7 +5,7 @@ I'm Zakaria, an IT student at htw Berlin, and working as student at Kyto gmbh !
 
 ###  🧶 i'm working on some cool personal web projects.
 ###  🧶 i'm working on an IOT university project based on Rpis, mqtt and node-red.
-###  🍿 on my job i'm maintaining an JSON based web automation framework.
+###  🍿 on my job i'm maintaining a JSON based web automation framework.
 
  ## languages and stack: 
 <div style="text-align:center">
