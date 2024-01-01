@@ -15,7 +15,7 @@ I'm Zakaria, an IT student at htw Berlin, and working as student at Kyto gmbh !
 <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="30px" width="30px">
 </div>
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,python,git,react,postgres,flutter&perline=3)](https://skillicons.dev)
 
 ## Likes
 * Beautiful code
