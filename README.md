@@ -8,7 +8,7 @@ I'm Zakaria, an IT student at htw Berlin, and working as student at Kyto gmbh !
 ###  🍿 on my job i'm maintaining a JSON based web automation framework.
 
  ## languages and stack: 
-[![My Skills](https://skillicons.dev/icons?i=js,python,git,react,postgres,flutter,linux,docker&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,git,react,postgres,flutter,linux,docker,node&perline=4)](https://skillicons.dev)
 
 ## Likes
 * Beautiful code
