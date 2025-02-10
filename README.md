@@ -10,7 +10,7 @@ founded and developed a mobile app called *LuftCarta* [you can find here on Play
 ###  🍿 i was maintaining a JSON based web automation framework on my student job.
 
  ## languages and stack: 
-[![My Skills](https://skillicons.dev/icons?i=js,python,git,react,postgres,flutter,linux,docker,nodejs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,react,nodejs,git,postgres,linux,docker,flutter&perline=4)](https://skillicons.dev)
 
 ## Likes
 * Beautiful code
